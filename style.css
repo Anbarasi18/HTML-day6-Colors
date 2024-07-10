@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color:#e75fb1;
+}
+#rain{
+    border-radius: 20px;
+    border: 4px solid black;
+    height: 80px;
+    width: 100px;
+    background-color: white;
+}
